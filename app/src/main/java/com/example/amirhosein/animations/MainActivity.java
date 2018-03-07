@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         img.startAnimation(animation);*/
 
 
-//فقط با جاوا
+         //فقط با جاوا
         img.animate()
                 .scaleX(2)
                 .scaleY(2)
